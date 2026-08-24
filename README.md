@@ -1,8 +1,7 @@
 Hi, i'm a 2nd year computer science student at RGU focused on messing around with whatever technologies i find interesting
 
 
-[![My Skills](https://skillicons.dev/icons?i=r,python,lua,javascript,cs,cpp,c&theme=dark&perline=15)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=r,python,lua,javascript,cs,cpp,c,powershell&theme=dark&perline=15)](https://skillicons.dev)
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
